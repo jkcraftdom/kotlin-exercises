@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MiApp</string>
+    <string name="txt_web">Ingrese el sitio web</string>
+    <string name="btn_ir">Ir al sitio web</string>
+    <string name="btn_cerrar">Volver</string>
+    <string name="a2_title">CREAR MANGA</string>
+    <string name="tv_name_manga">Nombre</string>
+    <string name="tv_autor_manga">Author </string>
+    <string name="tv_status_manga">Estado</string>
+    <string name="tv_type_manga">Tipo</string>
+    <string name="tv_last_chapter_manga">Ultimo Capitulo</string>
+    <string name="tv_date_publication_manga">Fecha de Public.</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_crear">Crear</string>
+</resources>
+

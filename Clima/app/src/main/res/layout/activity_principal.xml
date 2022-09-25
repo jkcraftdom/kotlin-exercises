@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PrincipalActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:popupTheme="@style/Theme.AppCompat.Light"
+        app:titleTextColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="@string/texto_bienvenido"
+        android:textDirection="firstStrongRtl"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnComics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buton_comics" />
+
+    <Button
+        android:id="@+id/bProducts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buton_lima" />
+
+    <Button
+        android:id="@+id/btnRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buton_red" />
+
+    <Button
+        android:id="@+id/btnHttp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buton_http" />
+
+    <Button
+        android:id="@+id/btnVolley"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buton_volley" />
+
+    <Button
+        android:id="@+id/btnOkHTTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buton_okhttp" />
+
+</LinearLayout>

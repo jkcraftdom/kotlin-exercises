@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grado">0%</string>
+    <string name="texto_ciudad">Ayacucho</string>
+    <string name="texto_status">Nublado</string>
+    <string name="texto_bienvenido">Bienvenido  a la app!</string>
+    <string name="buton_comics">Comics</string>
+    <string name="buton_lima">Products</string>
+    <string name="buton_red">Verificar Red</string>
+    <string name="buton_http">Solicitud Http</string>
+    <string name="buton_volley">Solicitud Volley</string>
+    <string name="buton_okhttp">Solicitud OkHTTP</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="icon_search">Search</string>
+    <string name="b_compartir">Compartir</string>
+    <string name="menu_search">Search product ...</string>
+    <string name="menu_new">New</string>
+    <string name="menu_change">Change view</string>
+</resources>
